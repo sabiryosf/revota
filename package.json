@@ -1,0 +1,8 @@
+{
+  "name":"privora-web-full-test",
+  "version":"0.3.0",
+  "type":"module",
+  "scripts":{"start":"node server/server.js"},
+  "dependencies":{"ws":"^8.18.0"},
+  "engines":{"node":">=20"}
+}
